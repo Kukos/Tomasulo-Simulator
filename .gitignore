@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# VS CODE
+.vscode/
+
+# Compiled external obj
+external/
